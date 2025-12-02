@@ -1,0 +1,7 @@
+{
+  "name": "CanFlyer Delivery",
+  "description": "A comprehensive Canadian flyer delivery platform managing orders, distribution areas, proof-of-delivery, and AI-driven insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
